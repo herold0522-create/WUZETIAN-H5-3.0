@@ -26,11 +26,16 @@ export default function StreetScene() {
     let mounted = true;
     (async () => {
       if (!containerRef.current) return;
-      const world = await createStreetWorld(containerRef.current, sceneLayout, (dialogId, npcId) => {
-        markVisited(npcId);
-        setDialogResult(null);
-        setDialog(dialogs[dialogId]);
-      });
+      const world = await createStreetWorld(
+        containerRef.current,
+        sceneLayout,
+        (dialogId, npcId) => {
+          markVisited(npcId);
+          setDialogResult(null);
+          setDialog(dialogs[dialogId]);
+        },
+        (pct) => setRailPct(pct)
+      );
       if (mounted) worldRef.current = world;
     })();
     return () => {

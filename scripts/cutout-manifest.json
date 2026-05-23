@@ -1,0 +1,614 @@
+{
+  "items": [
+    {
+      "id": "ground-scroll",
+      "source": "3.1 街市长卷背景（无建筑无人）　.png",
+      "category": "bg",
+      "path": "assets/cutout/bg/ground-scroll.png",
+      "size": [
+        1659,
+        948
+      ]
+    },
+    {
+      "id": "stele-bg",
+      "source": "7.2 碑林背景.png",
+      "category": "bg",
+      "path": "assets/cutout/bg/stele-bg.png",
+      "size": [
+        948,
+        1659
+      ]
+    },
+    {
+      "id": "palace-hall",
+      "source": "大殿朝堂背景.png",
+      "category": "bg",
+      "path": "assets/cutout/bg/palace-hall.png",
+      "size": [
+        853,
+        1844
+      ]
+    },
+    {
+      "id": "mountain-texture",
+      "source": "S2 碑石质感贴图　.png",
+      "category": "bg",
+      "path": "assets/cutout/bg/mountain-texture.png",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "inn",
+      "source": "A1酒肆.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/inn.png",
+      "size": [
+        610,
+        712
+      ],
+      "transparent_pct": 29.5
+    },
+    {
+      "id": "silk-shop",
+      "source": "A2 绸缎布庄.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/silk-shop.png",
+      "size": [
+        644,
+        626
+      ],
+      "transparent_pct": 34.6
+    },
+    {
+      "id": "pharmacy",
+      "source": "A3 药铺.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/pharmacy.png",
+      "size": [
+        638,
+        620
+      ],
+      "transparent_pct": 29.6
+    },
+    {
+      "id": "courtyard",
+      "source": "A4 民居小院.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/courtyard.png",
+      "size": [
+        640,
+        535
+      ],
+      "transparent_pct": 28.5
+    },
+    {
+      "id": "smithy",
+      "source": "A5 铁匠铺.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/smithy.png",
+      "size": [
+        641,
+        597
+      ],
+      "transparent_pct": 32.8
+    },
+    {
+      "id": "teahouse",
+      "source": "A6 胡商客栈.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/teahouse.png",
+      "size": [
+        634,
+        614
+      ],
+      "transparent_pct": 20.5
+    },
+    {
+      "id": "far-city",
+      "source": "A7 远景城楼.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/far-city.png",
+      "size": [
+        1127,
+        344
+      ],
+      "transparent_pct": 52.3
+    },
+    {
+      "id": "far-pagoda",
+      "source": "A8 远景佛塔.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/far-pagoda.png",
+      "size": [
+        798,
+        416
+      ],
+      "transparent_pct": 78.7
+    },
+    {
+      "id": "gongyuan",
+      "source": "3.2 建筑 · 科举贡院.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/gongyuan.png",
+      "size": [
+        1024,
+        877
+      ],
+      "transparent_pct": 56.8
+    },
+    {
+      "id": "tea-building",
+      "source": "3.3 建筑 · 茶肆.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/tea-building.png",
+      "size": [
+        572,
+        661
+      ],
+      "transparent_pct": 27.9
+    },
+    {
+      "id": "office",
+      "source": "建筑 · 上官官署.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/office.png",
+      "size": [
+        934,
+        878
+      ],
+      "transparent_pct": 26.9
+    },
+    {
+      "id": "grotto",
+      "source": "古老佛教岩窟寺庙.png",
+      "category": "buildings",
+      "path": "assets/cutout/buildings/grotto.png",
+      "size": [
+        904,
+        1318
+      ],
+      "transparent_pct": 18.8
+    },
+    {
+      "id": "hubing",
+      "source": "B1 胡饼食摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/hubing.png",
+      "size": [
+        631,
+        528
+      ],
+      "transparent_pct": 27.5
+    },
+    {
+      "id": "veggie",
+      "source": "B2 果蔬摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/veggie.png",
+      "size": [
+        657,
+        567
+      ],
+      "transparent_pct": 28.0
+    },
+    {
+      "id": "sancai-stall",
+      "source": "B3 唐三彩陶器摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/sancai-stall.png",
+      "size": [
+        664,
+        576
+      ],
+      "transparent_pct": 22.5
+    },
+    {
+      "id": "cloth-stall",
+      "source": "B4 布匹摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/cloth-stall.png",
+      "size": [
+        1349,
+        1166
+      ],
+      "transparent_pct": 19.9
+    },
+    {
+      "id": "tea-stall",
+      "source": "B5 茶水摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/tea-stall.png",
+      "size": [
+        1338,
+        1147
+      ],
+      "transparent_pct": 20.0
+    },
+    {
+      "id": "bookstall",
+      "source": "B6 字画书摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/bookstall.png",
+      "size": [
+        1345,
+        1160
+      ],
+      "transparent_pct": 16.5
+    },
+    {
+      "id": "grocery-stall",
+      "source": "B7 杂货摊.png",
+      "category": "props",
+      "path": "assets/cutout/props/grocery-stall.png",
+      "size": [
+        1349,
+        1161
+      ],
+      "transparent_pct": 22.2
+    },
+    {
+      "id": "show",
+      "source": "B8 卖艺场子.png",
+      "category": "props",
+      "path": "assets/cutout/props/show.png",
+      "size": [
+        1347,
+        1167
+      ],
+      "transparent_pct": 0.1
+    },
+    {
+      "id": "waiter",
+      "source": "茶客.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/waiter.png",
+      "size": [
+        866,
+        1168
+      ],
+      "transparent_pct": 36.5
+    },
+    {
+      "id": "waner",
+      "source": "上官婉儿.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/waner.png",
+      "size": [
+        610,
+        1473
+      ],
+      "transparent_pct": 42.7
+    },
+    {
+      "id": "merchant",
+      "source": "C2 卖饼胡商.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/merchant.png",
+      "size": [
+        1013,
+        1361
+      ],
+      "transparent_pct": 50.6
+    },
+    {
+      "id": "lady",
+      "source": "C4 唐仕女.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/lady.png",
+      "size": [
+        898,
+        1466
+      ],
+      "transparent_pct": 45.8
+    },
+    {
+      "id": "monk",
+      "source": "C9 行脚僧.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/monk.png",
+      "size": [
+        620,
+        1420
+      ],
+      "transparent_pct": 38.4
+    },
+    {
+      "id": "storyteller",
+      "source": "C10 说书先生.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/storyteller.png",
+      "size": [
+        869,
+        1373
+      ],
+      "transparent_pct": 43.7
+    },
+    {
+      "id": "child",
+      "source": "C8 ★动 顽童.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/child.png",
+      "size": [
+        1164,
+        908
+      ],
+      "transparent_pct": 58.2
+    },
+    {
+      "id": "stonemason",
+      "source": "老石匠.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/stonemason.png",
+      "size": [
+        569,
+        1450
+      ],
+      "transparent_pct": 39.8
+    },
+    {
+      "id": "scholar",
+      "source": "寒门举子.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/scholar.png",
+      "size": [
+        561,
+        1402
+      ],
+      "transparent_pct": 37.4
+    },
+    {
+      "id": "peddler",
+      "source": "C3 ★动 推车货郎.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/peddler.png",
+      "size": [
+        1041,
+        1186
+      ],
+      "transparent_pct": 38.9
+    },
+    {
+      "id": "dancer",
+      "source": "C7 ★动 胡旋舞女.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/dancer.png",
+      "size": [
+        1115,
+        1332
+      ],
+      "transparent_pct": 47.7
+    },
+    {
+      "id": "camelman",
+      "source": "C5 ★动 牵骆驼胡人.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/camelman.png",
+      "size": [
+        1082,
+        1166
+      ],
+      "transparent_pct": 42.9
+    },
+    {
+      "id": "sancai-vendor",
+      "source": "C11 ★动 杂耍艺人.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/sancai-vendor.png",
+      "size": [
+        636,
+        1268
+      ],
+      "transparent_pct": 59.9
+    },
+    {
+      "id": "vendor",
+      "source": "C1 ★动 挑担小贩.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/vendor.png",
+      "size": [
+        1024,
+        1481
+      ],
+      "transparent_pct": 36.0
+    },
+    {
+      "id": "farmer",
+      "source": "D1 ★动 挑菜农夫.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/farmer.png",
+      "size": [
+        1008,
+        1476
+      ],
+      "transparent_pct": 67.2
+    },
+    {
+      "id": "basket-woman",
+      "source": "D4 提篮农妇.png",
+      "category": "npc",
+      "path": "assets/cutout/npc/basket-woman.png",
+      "size": [
+        911,
+        1415
+      ],
+      "transparent_pct": 48.7
+    },
+    {
+      "id": "bridge",
+      "source": "F10 拱桥.png",
+      "category": "props",
+      "path": "assets/cutout/props/bridge.png",
+      "size": [
+        1528,
+        870
+      ],
+      "transparent_pct": 33.8
+    },
+    {
+      "id": "well",
+      "source": "F7 石水井.png",
+      "category": "props",
+      "path": "assets/cutout/props/well.png",
+      "size": [
+        1031,
+        989
+      ],
+      "transparent_pct": 22.4
+    },
+    {
+      "id": "scrolls",
+      "source": "F11 绸卷堆.png",
+      "category": "props",
+      "path": "assets/cutout/props/scrolls.png",
+      "size": [
+        1446,
+        976
+      ],
+      "transparent_pct": 33.2
+    },
+    {
+      "id": "willow",
+      "source": "F9 柳树.png",
+      "category": "props",
+      "path": "assets/cutout/props/willow.png",
+      "size": [
+        1325,
+        1085
+      ],
+      "transparent_pct": 49.5
+    },
+    {
+      "id": "flag",
+      "source": "F2 招幌酒旗.png",
+      "category": "props",
+      "path": "assets/cutout/props/flag.png",
+      "size": [
+        1447,
+        928
+      ],
+      "transparent_pct": 61.1
+    },
+    {
+      "id": "pushcart",
+      "source": "F6 木板车.png",
+      "category": "props",
+      "path": "assets/cutout/props/pushcart.png",
+      "size": [
+        1465,
+        688
+      ],
+      "transparent_pct": 52.6
+    },
+    {
+      "id": "horse",
+      "source": "E4 马.png",
+      "category": "props",
+      "path": "assets/cutout/props/horse.png",
+      "size": [
+        1190,
+        951
+      ],
+      "transparent_pct": 53.8
+    },
+    {
+      "id": "camel",
+      "source": "E1 骆驼.png",
+      "category": "props",
+      "path": "assets/cutout/props/camel.png",
+      "size": [
+        1346,
+        599
+      ],
+      "transparent_pct": 45.1
+    },
+    {
+      "id": "lanterns",
+      "source": "G1 前景灯笼.png",
+      "category": "fg",
+      "path": "assets/cutout/fg/lanterns.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "transparent_pct": 61.0
+    },
+    {
+      "id": "fg-willow",
+      "source": "G2 前景柳枝.png",
+      "category": "fg",
+      "path": "assets/cutout/fg/fg-willow.png",
+      "size": [
+        1024,
+        1337
+      ],
+      "transparent_pct": 39.4
+    },
+    {
+      "id": "fg-awning",
+      "source": "G3 前景摊棚角.png",
+      "category": "fg",
+      "path": "assets/cutout/fg/fg-awning.png",
+      "size": [
+        897,
+        1481
+      ],
+      "transparent_pct": 69.2
+    },
+    {
+      "id": "fg-lantern",
+      "source": "F1 红灯笼串.png",
+      "category": "fg",
+      "path": "assets/cutout/fg/fg-lantern.png",
+      "size": [
+        1502,
+        953
+      ],
+      "transparent_pct": 54.1
+    },
+    {
+      "id": "stele-frame",
+      "source": "7.3 分享卡 · 金石边框.png",
+      "category": "bg",
+      "path": "assets/cutout/bg/stele-frame.png",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "id": "stele-closeup",
+      "source": "无字碑特写.png",
+      "category": "bg",
+      "path": "assets/cutout/bg/stele-closeup.png",
+      "size": [
+        948,
+        1659
+      ]
+    }
+  ],
+  "intro": [
+    {
+      "id": "brush",
+      "path": "assets/cutout/intro/brush.png",
+      "category": "intro"
+    },
+    {
+      "id": "scroll-top",
+      "path": "assets/cutout/intro/scroll-top.png",
+      "category": "intro"
+    },
+    {
+      "id": "scroll-paper",
+      "path": "assets/cutout/intro/scroll-paper.png",
+      "category": "intro"
+    },
+    {
+      "id": "scroll-bottom",
+      "path": "assets/cutout/intro/scroll-bottom.png",
+      "category": "intro"
+    }
+  ]
+}
